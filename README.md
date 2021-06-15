@@ -7,6 +7,7 @@
 
 A cross-platform Socks5/Http/SS/SSR/Vmess/Trojan(go)/Snell GUI client
 
+原作者好像删库了，留个档吧。
 
 ## Feature
 - Full PAC Control
